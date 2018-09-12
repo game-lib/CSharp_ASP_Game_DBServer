@@ -8,4 +8,5 @@ MSSQL, MYSQL Database 사용을 통한 .Net Framework (C#) 환경에서, 데이�
 
 ### 공지
 
-본 프로젝트에 사용된 소스는 자유 목적으로 사용이 가능합니다.
+- 본 프로젝트에 사용된 소스는 자유 목적으로 사용이 가능합니다.
+- MSSQL DB에 사용된 서버는 NaverCloud (https://ncloud.com) 의 무료 크레딧을 받아서 구축 되었습니다. 
